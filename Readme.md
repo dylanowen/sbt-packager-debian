@@ -7,4 +7,5 @@ Sample usage
 
 ## Build
 `docker build -t dylanowen/sbt-packager-debian:latest .`
+
 `docker push dylanowen/sbt-packager-debian:latest`
